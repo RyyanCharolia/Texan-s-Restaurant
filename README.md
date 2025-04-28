@@ -1,5 +1,7 @@
 # Texan-s-Restaurant
 
+An online restaurant front-end built using HTML, CSS, and JavaScript with a user-friendly interface, showcasing menu items, reservation options, and an interactive cart system.
+
 ##Tech Stack
 -HTML5
 -CSS3
